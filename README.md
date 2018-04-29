@@ -6,3 +6,4 @@ dataquest.io上的项目。
 4. [Storytelling Through Data Visualization Project](https://github.com/sunxichen/Dataquest/tree/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees)
 5. [Data Cleaning Project 1](https://github.com/sunxichen/Dataquest/tree/master/Analyzing%20NYC%20High%20School%20Data)
 6. [Data Cleaning Project 2](https://github.com/sunxichen/Dataquest/tree/master/Star%20Wars%20Survey)
+7. [Data Munging Using The Command Line Project](https://github.com/sunxichen/Dataquest/tree/master/Transforming%20data%20with%20Python)
