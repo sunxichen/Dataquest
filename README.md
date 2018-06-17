@@ -11,3 +11,4 @@ dataquest.io上的项目。
 9. [Answering Business Questions using SQL](https://github.com/sunxichen/Dataquest/tree/master/Answering%20Business%20Questions%20using%20SQL)
 10. [Designing and Creating a Database](https://github.com/sunxichen/Dataquest/tree/master/Designing%20and%20Creating%20a%20Database)
 11. [Probability and Statistics in Python: Beginner Project](https://github.com/sunxichen/Dataquest/tree/master/Analyzing%20Movie%20Reviews)
+12. [Probability and Statistics in Python: Intermediate Project](https://github.com/sunxichen/Dataquest/tree/master/Winning%20Jeopardy)
