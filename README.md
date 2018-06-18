@@ -12,3 +12,4 @@ dataquest.io上的项目。
 10. [Designing and Creating a Database](https://github.com/sunxichen/Dataquest/tree/master/Designing%20and%20Creating%20a%20Database)
 11. [Probability and Statistics in Python: Beginner Project](https://github.com/sunxichen/Dataquest/tree/master/Analyzing%20Movie%20Reviews)
 12. [Probability and Statistics in Python: Intermediate Project](https://github.com/sunxichen/Dataquest/tree/master/Winning%20Jeopardy)
+13. [Machine Learning in Python: Basic Project](https://github.com/sunxichen/Dataquest/tree/master/Predicting%20Car%20Prices)
