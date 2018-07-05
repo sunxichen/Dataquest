@@ -13,4 +13,4 @@ dataquest.io上的项目。
 11. [Probability and Statistics in Python: Beginner Project](https://github.com/sunxichen/Dataquest/tree/master/Analyzing%20Movie%20Reviews)
 12. [Probability and Statistics in Python: Intermediate Project](https://github.com/sunxichen/Dataquest/tree/master/Winning%20Jeopardy)
 13. [Machine Learning in Python: Basic Project](https://github.com/sunxichen/Dataquest/tree/master/Predicting%20Car%20Prices)
-14. [Machine Learning in Python: LinearRegression Project](https://github.com/sunxichen/Dataquest/tree/master/Predicting%20House%20Sale%20Price)
+14. [Machine Learning in Python: LinearRegression Project](https://github.com/sunxichen/Dataquest/tree/master/Predicting%20House%20Sale%20Prices)
