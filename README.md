@@ -16,3 +16,4 @@ dataquest.io上的项目。
 14. [Machine Learning in Python: LinearRegression Project](https://github.com/sunxichen/Dataquest/tree/master/Predicting%20House%20Sale%20Prices)
 15. [Machine Learning in Python: DecisionTree Project](https://github.com/sunxichen/Dataquest/tree/master/Predicting%20Bike%20Rentals)
 16. [Machine Learning in Python: Machine Learning Walk Through Project](https://github.com/sunxichen/Dataquest/tree/master/Machine%20Learning%20Workthrough)
+17. [First Kaggle Competition Project](https://github.com/sunxichen/Dataquest/tree/master/Creating%20a%20Kaggle%20Workflow)
