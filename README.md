@@ -27,7 +27,7 @@ dataquest.io上的项目。
 * Data Visualization
 * Machine Learning (Basics)
 * Data Engineering
-    - Minimize data foorprint
+    - Minimize data memory footprint
     - Chunk processing
     - Multi-threading\processing
 * Database: SQLitte
