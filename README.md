@@ -20,6 +20,7 @@ dataquest.io上的项目。
 18. [Processing Large Datasets in Pandas Project I](https://github.com/sunxichen/Dataquest/tree/master/Practice%20Optimizing%20Dataframes%20and%20Processing%20in%20Chunks)
 19. [Processing Large Datasets in Pandas Project II](https://github.com/sunxichen/Dataquest/tree/master/Analyzing%20Startup%20Fundraising%20Deals%20from%20Crunchbase)
 20. [Analyzing Data With Parallel Processing Project](https://github.com/sunxichen/Dataquest/tree/master/Analyzing%20Wikipedia%20Pages)
+21. [Analyzing Data With Pipeline Project](https://github.com/sunxichen/Dataquest/tree/master/Hacker%20News%20Pipeline)
 
 
 # What's involved:
@@ -30,4 +31,5 @@ dataquest.io上的项目。
     - Minimize data memory footprint
     - Chunk processing
     - Multi-threading\processing
+    - Pipeline Design
 * Database: SQLitte
